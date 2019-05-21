@@ -1,0 +1,47 @@
+p{
+font-family: Verdana, Arial, Helvatica, sans-serif;
+color: #FF6600;
+border:1px solid #CCCCCC;
+fontsize: 90%
+text-align: center;
+}
+
+blockquote{
+font-family; Verdana, Helvetica, Arial, sans-serif;
+background: #999999;
+color: #FFFFFF;
+border: 1px solid #000000;
+font-size: 100%
+}
+body {
+        background-image: url("pc.gif");
+}
+
+.voorbeeld{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+color: #000000;
+font-size: 140%
+}
+
+p.voorbeeld span{
+background-color: #999999;
+}
+
+h2{
+text-decoration: underline;
+}
+
+.uitzondering{
+text-decoration: none;
+}
+
+h2, blockquote span, p.voorbeeld{
+font-size: 140%;
+color: #FFFFFF
+}
+
+div#header{
+border: 1px #F60 solid;
+padding: 5px 0 10px 10px;
+background: #CCC url(bomb.gif) top right no-repeat
+}
